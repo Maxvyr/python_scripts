@@ -12,7 +12,8 @@ I will do this for fun and also for some usecase I have ;)
     cd <YourFolder>
     git clone https://github.com/Maxvyr/maxvyr_scripts.git
     cd maxvyr_scripts/
-    pipenv install
+    poetry install
+    poetry shell
     <choose folder you want>
 ```
 
