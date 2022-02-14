@@ -14,13 +14,13 @@ async def main():
         await page.goto(url=URL_RASP)
         print(await page.title())
         price_recover = await page.evaluate("document.querySelector('span[itemprop=price]').innerHTML")
-        print(f"le prix est de => " + price_recover);
+        print(f"Rasp price is => " + price_recover);
         price_pi_4 = int(price_recover[0:2])
 
         if(price_pi_4 < PRICE_GOAL):  
             print(f"You can buy")
         else:
-            print(f"Euh nope to high")
+            print(f"Nope to high")
             
         await browser.close()
         
