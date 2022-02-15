@@ -1,0 +1,6 @@
+
+LOGIN=""
+MAIL_TO=""
+PWD=""
+SERVER_SMTP=""
+SERVER_PORT=0
