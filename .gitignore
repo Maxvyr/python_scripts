@@ -4,3 +4,4 @@ sqlite_table/album.db
 
 
 .DS_STORE
+.env

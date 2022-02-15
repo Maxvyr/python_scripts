@@ -9,6 +9,7 @@ license = "MIT"
 python = "^3.9"
 playwright = "^1.18.2"
 PyPDF2 = "^1.26.0"
+python-dotenv = "^0.19.2"
 
 [tool.poetry.dev-dependencies]
 
