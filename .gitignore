@@ -5,6 +5,7 @@ encoding_forcing/waifu.jpg
 send_email/config_file.py
 gestion_excel/result.xlsx
 zip_unzip_file/file_result.zip
+zip_unzip_file/extract_zip
 
 
 
