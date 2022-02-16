@@ -2,7 +2,7 @@ from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
 
 with sync_playwright() as p:
-    browser = p.chromium.launch(headless=False, slow_mo=50)
+    browser = p.chromium.launch()
     page = browser.new_page()
     page.goto("https://demo.opencart.com/admin/")
     page.fill('input#input-username', 'demo')
