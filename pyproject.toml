@@ -12,6 +12,7 @@ PyPDF2 = "^1.26.0"
 python-dotenv = "^0.19.2"
 requests = "^2.27.1"
 openpyxl = "^3.0.9"
+bs4 = "^0.0.1"
 
 [tool.poetry.dev-dependencies]
 
