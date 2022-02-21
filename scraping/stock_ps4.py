@@ -29,5 +29,5 @@ with sync_playwright() as p:
     except AttributeError :
         res = f"{product_name} => STOCK"
         link = f"Link => {URL}"
-        send_email.email_sending.send_email(email_to=send_email.config_file.MAIL_TO, subject="Message From Python", message=message_email_begin + res + link + message_email_end)
+        #Call method for send emal here
         print("Email Send")
