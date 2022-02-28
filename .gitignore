@@ -12,3 +12,6 @@ zip_unzip_file/extract_zip
 .DS_STORE
 .env
 __pycache__
+
+
+venv/
