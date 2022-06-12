@@ -19,7 +19,7 @@ I will do this for fun and also for some usecase I have ;)
 
 ## Crypto Tips
 
-![https://i.imgur.com/wuW30D4.png](https://i.imgur.com/wuW30D4.png)
+![https://raw.githubusercontent.com/Maxvyr/Maxvyr/main/img/tips/github-tips-crypto.png](https://raw.githubusercontent.com/Maxvyr/Maxvyr/main/img/tips/github-tips-crypto.png)
 
 ## Contact Me
 
