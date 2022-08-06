@@ -12,8 +12,7 @@ I will do this for fun and also for some usecase I have ;)
     cd <YourFolder>
     git clone https://github.com/Maxvyr/maxvyr_scripts.git
     cd maxvyr_scripts/
-    poetry install
-    poetry shell
+    pip install -r requirements.txt
     <choose folder you want>
 ```
 
