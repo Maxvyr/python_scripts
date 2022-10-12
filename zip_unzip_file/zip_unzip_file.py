@@ -1,4 +1,5 @@
 import shutil
+
 # import zipfile
 
 # file_zip = zipfile.ZipFile("zip_CA.zip", "w", zipfile.ZIP_DEFLATED) #last param help to reduce size file
@@ -11,5 +12,5 @@ import shutil
 # shutil.make_archive("file_result", "zip", "file_group")
 
 
-#unzip
+# unzip
 shutil.unpack_archive("file_result.zip", "extract_zip")

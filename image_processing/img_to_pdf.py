@@ -3,7 +3,7 @@ from PIL import Image
 import os
   
 # storing image path
-img_path = "img_waifu.jpg"
+img_path = "img_waifu.jpeg"
   
 # storing pdf path
 pdf_path = "img_waifu.pdf"
