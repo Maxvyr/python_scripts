@@ -1,6 +1,6 @@
 import json
 
-# serialize and desezialize
+# serialize and deserialize
 
 
 # WRITE

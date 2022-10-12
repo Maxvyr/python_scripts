@@ -1,6 +1,6 @@
 import os.path
 
-filename = os.path.join("rep","sample.txt")
+filename = os.path.join("rep", "sample.txt")
 
 if os.path.exists(filename):
     print(f"file exist path : {filename}")
@@ -11,12 +11,11 @@ if os.path.exists(filename):
 else:
     print("File doesn't exist")
 
-
-#create  folder
+# create  folder
 # os.mkdir("rep")
 
-#remove folder
+# remove folder
 # os.rmdir("rep")
 
-#remove fil
+# remove fil
 # os.remove(filename)
