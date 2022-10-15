@@ -2,7 +2,7 @@ from pytube import YouTube
 import os
 from pathlib import Path
 
-link = input('Enter Youtube Video URL')
+link = input('Enter Youtube Video URL : ')
 url = YouTube(link)
 print("downloading start ....")
 
