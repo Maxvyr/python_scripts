@@ -1,9 +1,9 @@
-import pytube 
+from pytube import YouTube
 import os
 from pathlib import Path
 
 link = input('Enter Youtube Video URL')
-url = pytube.YouTube(link)
+url = YouTube(link)
 print("downloading start ....")
 
 
