@@ -6,7 +6,7 @@ if res.status_code == 200:
     print("Start Write file")
     f = open("waifu.jpg", "wb")
     f.write(res.content)
-    f.close
+    f.close()
     print("Finish write file")
 else:
     print(f"ERROR {res.status_code}")
