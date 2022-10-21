@@ -1,15 +1,11 @@
 #some file useless for git
-gestion_pdf/combinator.pdf
-image_processing/img_waifu.pdf
-sqlite_table/album.db
-encoding_forcing/waifu.jpg
+*.pdf
+*.jpg
 send_email/config_file.py
-gestion_excel/result.xlsx
-zip_unzip_file/file_result.zip
-zip_unzip_file/extract_zip
-image_processing/Compressed.jpg
-album.db
-
+*.xlsx
+*.zip
+*.db
+*.mp4
 
 .DS_STORE
 .env

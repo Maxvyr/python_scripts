@@ -8,6 +8,8 @@ charset-normalizer==2.0.12
 cryptography==36.0.1
 distro==1.7.0
 et-xmlfile==1.1.0
+ffmpeg-python==0.2.0
+future==0.18.2
 greenlet==1.1.2
 idna==3.3
 img2pdf==0.4.3
