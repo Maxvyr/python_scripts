@@ -21,10 +21,10 @@ for i in range(reader_recap.getNumPages()):
     content_final.addPage(reader_recap.getPage(i))
 
 # create file and add pdf content "wb" => write binary
-file_combinator = open("combinator.pdf", "wb")
+file_combinator = open("combined.pdf", "wb")
 content_final.write(file_combinator)
 
-# close all file 
+# close all file
 file_0.close()
 file_1.close()
 file_combinator.close()
